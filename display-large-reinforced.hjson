@@ -1,0 +1,6 @@
+type: LogicDisplay
+size: 6
+requirements: [ "beryllium /300", "phase-fabric/75", "silicon/150"]
+displaySize: 176
+category: logic
+research: "erekir-logic-display-logic-reinforced"

@@ -1,0 +1,5 @@
+type: LogicBlock
+requirements: [ "beryllium/90", "graphite/50", "silicon/50"]
+instructionsPerTick: 2
+category: logic
+research: "silicon-arc-furnace"

@@ -1,0 +1,19 @@
+type: LogicBlock
+size: 3
+requirements: [ "tungsten/450", "thorium/75", "silicon/150", "surge-alloy/50"]
+range: 336
+instructionsPerTick: 25
+category: logic
+consumes: {
+    liquids: [
+        {
+            liquid: water,
+            amount: 0.08
+        },
+        {
+            liquid: nitrogen,
+            amount: 0.08
+        }
+    ]
+}
+research: "erekir-logic-processor-logic-reinforced"

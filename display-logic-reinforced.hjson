@@ -1,0 +1,6 @@
+type: LogicDisplay
+size: 3
+requirements: [ "beryllium/150", "silicon/50"]
+displaySize: 80
+category: logic
+research: "erekir-logic-message-reinforced"

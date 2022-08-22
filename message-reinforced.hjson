@@ -1,0 +1,4 @@
+type: MessageBlock
+category: logic
+requirements: [ "beryllium/5", "graphite/5"]
+research: "erekir-logic-switch-reincorced"

@@ -1,0 +1,5 @@
+type: MemoryBlock
+memoryCapacity: 64
+requirements: [ "beryllium/30", "graphite/30", "silicon/30"]
+category: logic
+research: "erekir-logic-message-reinforced"

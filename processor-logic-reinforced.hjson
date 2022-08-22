@@ -1,0 +1,13 @@
+type: LogicBlock
+size: 2
+requirements: [ "tungsten/320", "graphite/60", "silicon/80", "thorium/50"]
+range: 176
+instructionsPerTick: 8
+category: logic
+consumes: {
+    liquid: {
+        liquid: water,
+        amount: 0.04
+    }
+}
+research: "erekir-logic-switch-reinforced"
