@@ -1,0 +1,8 @@
+{
+	"name": "erekir-logic",
+	"displayName": "Erekir Logic",
+	"author":"Akinom",
+	"description": "Adds logic blocks for erekir.",
+	"version": "Release V1",
+	"minGameVersion": "136"
+}
